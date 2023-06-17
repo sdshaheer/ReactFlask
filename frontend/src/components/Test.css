@@ -1,0 +1,22 @@
+table{
+    border-radius:2em;
+    border: solid 1px
+}
+
+thead > tr{
+    background-color: rgb(70, 72, 156);
+    height:75px;
+    color: white;
+}
+
+tbody{
+    background-color: rgba(55, 73, 192, 0.856);
+    color:white
+}
+
+tr{
+    height:100px;
+    margin:2px;
+    padding:2px;
+}
+
